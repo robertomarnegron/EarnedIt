@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy — EarnedIt</title>
+    <meta
+      name="description"
+      content="How EarnedIt handles your HealthKit data. Spoiler: it stays on your device."
+    />
+    <meta name="theme-color" content="#000000" />
+    <link rel="icon" type="image/png" href="assets/icon.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a href="/" class="brand plain">
+          <img src="assets/icon.png" alt="" />
+          <span>EarnedIt</span>
+        </a>
+        <nav class="nav-links" aria-label="Primary">
+          <a href="/#how">How it works</a>
+          <a href="/#features">Features</a>
+          <a href="/#faq">FAQ</a>
+          <a href="support.html">Support</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="legal">
+      <a href="/" class="back-link">← Back to EarnedIt</a>
+      <h1>Privacy Policy</h1>
+      <p class="effective">Effective date: April 21, 2026</p>
+
+      <div class="callout">
+        <p>
+          <strong>The short version.</strong> EarnedIt reads active energy
+          samples from HealthKit, does math with them on your device, and
+          shows you the result. That's it. There are no servers, no accounts,
+          no analytics, and no third parties. Your health data never leaves
+          your devices.
+        </p>
+      </div>
+
+      <h2>1. Who this applies to</h2>
+      <p>
+        This policy applies to the EarnedIt iPhone and Apple Watch apps
+        ("EarnedIt", "the app", "we", "us") and to this website at
+        <a href="https://earnedit.ron-media.com">earnedit.ron-media.com</a>.
+        EarnedIt is an independent project; it is not affiliated with or
+        endorsed by Apple Inc.
+      </p>
+
+      <h2>2. What data the app accesses</h2>
+
+      <h3>HealthKit data</h3>
+      <p>
+        With your permission, EarnedIt reads <strong>active energy burned</strong>
+        samples from Apple's HealthKit on your iPhone and Apple Watch. You
+        grant this permission in the standard HealthKit prompt the first
+        time you open the app, and you can revoke it at any time from
+        <em>Settings → Health → Data Access &amp; Devices → EarnedIt</em>.
+      </p>
+      <p>
+        EarnedIt does not read any other health data types. It never writes
+        to HealthKit.
+      </p>
+
+      <h3>Cravings you choose and create</h3>
+      <p>
+        The app stores the list of built-in cravings you've favorited, which
+        one you've featured, and any custom cravings you create (name,
+        calories per item, unit label, and photo). Photos you attach to
+        custom cravings are saved to your iPhone's app-scoped Documents
+        directory.
+      </p>
+
+      <h3>What the app does <em>not</em> collect</h3>
+      <ul>
+        <li>No account, email, name, or sign-in information.</li>
+        <li>No location data.</li>
+        <li>No device identifiers, advertising identifiers, or IP address.</li>
+        <li>No analytics, telemetry, or crash reports beyond what Apple may provide to us through TestFlight / App Store Connect (aggregate and anonymized).</li>
+        <li>No contacts, photos library access beyond the single image you pick, or microphone access.</li>
+      </ul>
+
+      <h2>3. How the data is used</h2>
+      <p>
+        EarnedIt uses your HealthKit active-energy samples solely to compute
+        how many "earned" cravings you have — a straightforward division of
+        calories burned by the calories-per-item you've configured. The
+        computation happens entirely on your device.
+      </p>
+      <div class="callout">
+        <p>
+          <strong>HealthKit disclosure.</strong> EarnedIt does not use
+          HealthKit data for advertising, marketing, data mining, or any use
+          other than providing and improving the app's core functionality.
+          EarnedIt does not share any HealthKit data with any third party,
+          and does not disclose HealthKit data to any party for any purpose.
+        </p>
+      </div>
+
+      <h2>4. Where the data lives</h2>
+      <ul>
+        <li>
+          <strong>HealthKit samples</strong> stay in Apple's encrypted Health
+          store on your device. EarnedIt only reads them in memory while the
+          app is running — we do not copy or export them.
+        </li>
+        <li>
+          <strong>Your favorites, featured craving, and custom cravings</strong>
+          are stored in a local App Group container
+          (<code>group.com.ron.EarnedIt</code>) on your device so the iPhone
+          and Apple Watch apps can share them.
+        </li>
+        <li>
+          <strong>Photos for custom cravings</strong> are stored in the
+          iPhone app's sandboxed Documents directory. They are not
+          uploaded anywhere.
+        </li>
+        <li>
+          <strong>iPhone ↔ Apple Watch sync</strong> is handled by Apple's
+          WatchConnectivity framework over the encrypted Bluetooth/Wi-Fi
+          link between your paired devices. We send only the list of
+          favorites and the featured craving ID — never your health data.
+          Each device reads its own HealthKit samples independently.
+        </li>
+      </ul>
+
+      <h2>5. Data we never send off your device</h2>
+      <p>
+        EarnedIt has no backend. It does not make network requests to any
+        server we control, because we do not operate any server for the app.
+        Your HealthKit samples, custom cravings, and photos stay on your
+        devices.
+      </p>
+
+      <h2>6. Apple's role</h2>
+      <p>
+        While you're part of the TestFlight beta or install the app from the
+        App Store, Apple may collect standard information about your
+        installation, crashes, and usage according to
+        <a href="https://www.apple.com/legal/privacy/" rel="noopener"
+          >Apple's own privacy policy</a
+        >. Apple may share aggregate, anonymized metrics with us through
+        App Store Connect. We never receive information that identifies
+        you personally.
+      </p>
+
+      <h2>7. Children</h2>
+      <p>
+        EarnedIt is not directed to children under 13, and we do not
+        knowingly collect personal information from children. The app itself
+        doesn't collect personal information from anyone.
+      </p>
+
+      <h2>8. Your choices</h2>
+      <ul>
+        <li>
+          Revoke HealthKit access at any time in
+          <em>Settings → Health → Data Access &amp; Devices → EarnedIt</em>.
+          The app will still open; your counts will just show zero.
+        </li>
+        <li>
+          Delete custom cravings and their photos from inside the app.
+        </li>
+        <li>
+          Delete the app from your iPhone and Apple Watch to remove all of
+          its local data.
+        </li>
+      </ul>
+
+      <h2>9. Changes to this policy</h2>
+      <p>
+        If we ever materially change how data is handled, we'll update this
+        page and bump the effective date at the top. Since EarnedIt has no
+        way to contact you, we encourage you to check back here occasionally
+        if it matters to you.
+      </p>
+
+      <h2>10. Contact</h2>
+      <p>
+        Questions about privacy? Email
+        <a href="mailto:admin@ron-media.com">admin@ron-media.com</a>.
+      </p>
+
+      <p style="margin-top: 48px;">
+        <a href="terms.html">Terms of Service</a> ·
+        <a href="support.html">Support</a> ·
+        <a href="/">Home</a>
+      </p>
+    </main>
+  </body>
+</html>
