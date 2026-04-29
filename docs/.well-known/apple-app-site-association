@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5964748T57.com.ron.EarnedIt"],
+        "components": [
+          {
+            "/": "/i/*",
+            "comment": "Craving import links"
+          }
+        ]
+      }
+    ]
+  }
+}
