@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-05T02:50:40Z",
+  "items": [
+    {
+      "catalogId": "mofongo",
+      "name": "Mofongo",
+      "kcal": 480.0,
+      "unitSingular": "bowl",
+      "unitPlural": "bowls",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/mofongo.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/mofongo.craving"
+    },
+    {
+      "catalogId": "bacalaito",
+      "name": "Bacalaíto",
+      "kcal": 180.0,
+      "unitSingular": "bacalaíto",
+      "unitPlural": "bacalaítos",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/bacalaito.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/bacalaito.craving"
+    },
+    {
+      "catalogId": "pastelon",
+      "name": "Pastelón",
+      "kcal": 350.0,
+      "unitSingular": "slice",
+      "unitPlural": "slices",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/pastelon.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/pastelon.craving"
+    },
+    {
+      "catalogId": "arroz-con-gandules",
+      "name": "Arroz con Gandules",
+      "kcal": 290.0,
+      "unitSingular": "cup",
+      "unitPlural": "cups",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/arroz-con-gandules.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/arroz-con-gandules.craving"
+    },
+    {
+      "catalogId": "pernil",
+      "name": "Pernil",
+      "kcal": 250.0,
+      "unitSingular": "serving",
+      "unitPlural": "servings",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/pernil.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/pernil.craving"
+    },
+    {
+      "catalogId": "coquito",
+      "name": "Coquito",
+      "kcal": 180.0,
+      "unitSingular": "glass",
+      "unitPlural": "glasses",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/coquito.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/coquito.craving"
+    }
+  ]
+}
