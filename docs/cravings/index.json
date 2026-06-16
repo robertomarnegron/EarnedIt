@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T02:50:40Z",
+  "updatedAt": "2026-06-16T00:31:28Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -55,6 +55,24 @@
       "unitPlural": "glasses",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/coquito.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/coquito.craving"
+    },
+    {
+      "catalogId": "guinness",
+      "name": "Guinness",
+      "kcal": 210.0,
+      "unitSingular": "pint",
+      "unitPlural": "pints",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/guinness.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/guinness.craving"
+    },
+    {
+      "catalogId": "medalla",
+      "name": "Medalla",
+      "kcal": 103.0,
+      "unitSingular": "medalla",
+      "unitPlural": "medallas",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/medalla.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/medalla.craving"
     }
   ]
 }
