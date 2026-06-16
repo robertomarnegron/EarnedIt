@@ -6,7 +6,11 @@
         "components": [
           {
             "/": "/i/*",
-            "comment": "Craving import links"
+            "comment": "Craving import links (self-contained, no image)"
+          },
+          {
+            "/": "/c/*",
+            "comment": "Craving share links backed by hosted image"
           }
         ]
       }
