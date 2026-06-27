@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T18:31:00Z",
+  "updatedAt": "2026-06-27T20:04:53Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -64,6 +64,42 @@
       "unitPlural": "sandwichitos de mezcla",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/sandwichito-de-mezcla.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/sandwichito-de-mezcla.craving"
+    },
+    {
+      "catalogId": "toston",
+      "name": "Tostón",
+      "kcal": 85.0,
+      "unitSingular": "tostón",
+      "unitPlural": "tostones",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/toston.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/toston.craving"
+    },
+    {
+      "catalogId": "pastelillo",
+      "name": "Pastelillo",
+      "kcal": 305.0,
+      "unitSingular": "pastelillo",
+      "unitPlural": "pastelillos",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/pastelillo.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/pastelillo.craving"
+    },
+    {
+      "catalogId": "pastel",
+      "name": "Pastel",
+      "kcal": 450.0,
+      "unitSingular": "pastel",
+      "unitPlural": "pasteles",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/pastel.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/pastel.craving"
+    },
+    {
+      "catalogId": "alcapurria",
+      "name": "Alcapurria",
+      "kcal": 250.0,
+      "unitSingular": "alcapurria",
+      "unitPlural": "alcapurrias",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/alcapurria.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/alcapurria.craving"
     },
     {
       "catalogId": "guinness",
