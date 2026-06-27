@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T20:17:59Z",
+  "updatedAt": "2026-06-27T20:41:17Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -122,9 +122,9 @@
     {
       "catalogId": "cheetos-puffs",
       "name": "Cheetos Puffs",
-      "kcal": 1200.0,
-      "unitSingular": "bag",
-      "unitPlural": "bags",
+      "kcal": 160.0,
+      "unitSingular": "serving",
+      "unitPlural": "servings",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/cheetos-puffs.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/cheetos-puffs.craving"
     }
