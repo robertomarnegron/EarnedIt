@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16T01:15:45Z",
+  "updatedAt": "2026-06-27T18:08:20Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -55,6 +55,15 @@
       "unitPlural": "glasses",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/coquito.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/coquito.craving"
+    },
+    {
+      "catalogId": "sandwichito-de-mezcla",
+      "name": "Sandwichito de mezcla",
+      "kcal": 75.0,
+      "unitSingular": "sandwichito",
+      "unitPlural": "sandwichitos",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/sandwichito-de-mezcla.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/sandwichito-de-mezcla.craving"
     },
     {
       "catalogId": "guinness",
