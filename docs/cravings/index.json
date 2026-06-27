@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T18:27:53Z",
+  "updatedAt": "2026-06-27T18:31:00Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -60,8 +60,8 @@
       "catalogId": "sandwichito-de-mezcla",
       "name": "Sandwichito de mezcla",
       "kcal": 75.0,
-      "unitSingular": "sandwichito",
-      "unitPlural": "sandwichitos",
+      "unitSingular": "sandwichito de mezcla",
+      "unitPlural": "sandwichitos de mezcla",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/sandwichito-de-mezcla.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/sandwichito-de-mezcla.craving"
     },
