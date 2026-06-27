@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T20:04:53Z",
+  "updatedAt": "2026-06-27T20:08:43Z",
   "items": [
     {
       "catalogId": "mofongo",
@@ -118,6 +118,15 @@
       "unitPlural": "medallas",
       "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/medalla.png",
       "downloadUrl": "https://earnedit.ron-media.com/cravings/files/medalla.craving"
+    },
+    {
+      "catalogId": "cheetos-puffs",
+      "name": "Cheetos Puffs",
+      "kcal": 1200.0,
+      "unitSingular": "bag",
+      "unitPlural": "bags",
+      "thumbnailUrl": "https://earnedit.ron-media.com/cravings/thumbs/cheetos-puffs.png",
+      "downloadUrl": "https://earnedit.ron-media.com/cravings/files/cheetos-puffs.craving"
     }
   ]
 }
